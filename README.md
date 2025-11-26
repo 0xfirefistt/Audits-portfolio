@@ -1,8 +1,7 @@
-Hi,
-
 This is my Security Researcher Portfolio.
 
 X --> https://x.com/0xFireFist
+Security Analyst(Triage) @ [HackenProof](https://hackenproof.com/)
 
 
 ## Contests
