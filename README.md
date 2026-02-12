@@ -6,6 +6,8 @@ ex Security Analyst(Triage) @ [HackenProof](https://hackenproof.com/)
 
 [0xSimao's](https://x.com/0xSimao) First Mentee
 
+$10k+ Earned From Contests
+
 ## Contests
 
 | №  | Date     | Project                                                                 | Category          | Vulnerabilities | Language | Platform  | Rank  |
